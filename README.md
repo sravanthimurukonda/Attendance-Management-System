@@ -80,6 +80,7 @@ The Attendance Management System is built using the following technologies:
 
 - **Frontend**:
     - React.js (or HTML, CSS, JavaScript)
+    - Bootstrap (for responsive design)
     
 - **Backend**:
     - PHP with XAMPP (Apache)
@@ -120,6 +121,3 @@ The Attendance Management System offers a wide range of features to enhance the 
 
 We welcome contributions from the community! If you would like to contribute to the project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
